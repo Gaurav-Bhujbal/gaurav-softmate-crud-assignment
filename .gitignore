@@ -2,3 +2,7 @@ node_modules
 .env
 dist
 uploads
+
+# local-only documentation source (not published)
+docs/SCREENSHOTS.md
+docs/screenshots/

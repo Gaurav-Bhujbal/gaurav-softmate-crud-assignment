@@ -21,6 +21,9 @@ A simple full-stack app where users can register, log in, and add, view, edit an
 
 Short step-by-step guide: [GETTING_STARTED.md](GETTING_STARTED.md)
 
+Page-by-page documentation with screenshots:
+[docs/PROJECT_DOCUMENTATION.pdf](docs/PROJECT_DOCUMENTATION.pdf)
+
 ### 1. Database
 
 Open MySQL (Workbench or terminal) and run the file `backend/database/schema.sql`.
